@@ -1,16 +1,12 @@
-# Project Name
+# The Next Web
 
-> One paragraph statement about the project.
+> This is the clone of [thenextweb.com](https://thenextweb.com "thenextweb.com") project on the odin projects 
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML,
+- CSS
 
 ## Live Demo
 
@@ -21,45 +17,10 @@ Additional description about the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone https://github.com/idris01/thenextweb.git
 
 ```
 
-- Install Dependencies
-
-```bash
-npm install
-```
-
-To run StyleLint by itself, you may run the lint task:
-
-```bash
-npm run lint:check
-```
-
-Or to automatically fix issues found (where possible):
-
-```bash
-npm run lint
-```
-
-You can also check against Prettier:
-
-```bash
-npm run format:check
-```
-
-and to have it actually fix (to the best of its ability) any format issues, run:
-
-```bash
-npm run format
-```
-
-You can also check against HTML Validator:
-
-```bash
-npm run html-validator
-```
 
 ## Style Guides
 
@@ -68,17 +29,15 @@ npm run html-validator
 - [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
-## 👤 Author
+## 👤 Idris Adebowale
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@author](https://github.com/Idris01)
+- Linkedin: [@author](https://www.linkedin.com/in/idris-adebowale-ab4208ab)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues).
 
 ## Show your support
 
